@@ -1,0 +1,69 @@
+body {
+  background-color: grey;
+}
+
+.quote {
+background-color: #a1b2c3;
+width: 40%;
+min-width: 400px;
+margin: auto;
+margin-top: 10%;
+min-height: 200px;
+padding: 20px;
+padding-bottom:8px;
+}
+
+.quoteText {
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.4em;
+}
+
+.fa-quote-left {
+  margin: 10px;
+  margin-bottom: 0px;
+}
+
+#author{
+  float:right;
+  font-style: italic;
+  color: grey;
+  padding-top: 0px;
+}
+
+hr {
+  margin-bottom: 0;
+}
+
+.fa-twitter {
+  margin-left: 5px; 
+}
+
+.fa-twitter:hover {
+  color:#f3f3f3;
+  cursor: pointer;
+}
+
+label{
+  font-size: 1.2em;
+}
+
+.btn {
+  margin: 10px;
+  padding-bottom: 10px;
+  font-style: oblique;
+}
+
+.madeBy{
+  text-align: center;
+}
+
+.madeBy a{
+  text-decoration:none;
+  color:grey;
+}
+
+.madeBy a:hover{
+  text-decoration:none;
+  color:black;
+}
